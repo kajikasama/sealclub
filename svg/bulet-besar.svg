@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.065" y1="-0.092" x2="0.128" y2="0.874" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffde00"/>
+      <stop offset="1" stop-color="#fff6c5"/>
+    </linearGradient>
+  </defs>
+  <circle id="bulet-besar" cx="250" cy="250" r="250" fill="url(#linear-gradient)"/>
+</svg>

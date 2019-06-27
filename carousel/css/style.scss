@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700&display=swap');
+
+body
+{
+  margin: 0;
+  height: calc(100vh - 8em);
+  font-family: 'Muli', sans-serif;
+}
+
+h1{
+  text-align: center;
+  margin: 4em;
+}
+img{
+  width: 200px;
+}
+
+.container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .items{
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    animation: carouselAnim 100s infinite alternate linear;
+  }
+  
+}

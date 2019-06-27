@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  display: flex;
+  /* background: #928; */
+  width: 90%;
+  margin: auto;
+  align-items: center;
+  height: 10vh;
+}
+
+.judul,
+.bapak-nav,
+.signin {
+  display: flex;
+}
+
+.judul {
+  flex: 1;
+  margin: 5px;
+
+}
+
+.judul h4 {
+  font-size: 24px;
+  font-family: 'Poppins';
+}
+
+nav {
+  flex: 2;
+}
+
+.bapak-nav {
+  justify-content: space-around;
+  list-style: none;
+}
+
+.anak-nav a {
+  text-decoration: none;
+  color: rgb(27, 27, 27);
+}
+
+.signin {
+  flex: 1;
+  justify-content: flex-end;
+}

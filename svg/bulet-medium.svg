@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366.228" height="366.228" viewBox="0 0 366.228 366.228">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.065" y1="-0.092" x2="-0.322" y2="1.241" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5400ff"/>
+      <stop offset="1" stop-color="#d0cbff"/>
+    </linearGradient>
+  </defs>
+  <circle id="bulet-sedang" cx="180" cy="180" r="180" transform="translate(366.228 359.945) rotate(179)" fill="url(#linear-gradient)"/>
+</svg>
